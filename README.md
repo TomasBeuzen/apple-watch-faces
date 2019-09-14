@@ -1,4 +1,4 @@
-<img src='docs/display.png' alt="image" width="500">
+<img src='docs/display.png' alt="image">
 
 This repository contains images I've made for personal use with an Apple Watch.  
 
