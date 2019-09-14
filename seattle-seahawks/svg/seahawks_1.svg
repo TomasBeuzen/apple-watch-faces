@@ -22,17 +22,17 @@
    inkscape:export-ydpi="600">
   <sodipodi:namedview
      inkscape:window-maximized="0"
-     inkscape:window-y="79"
+     inkscape:window-y="23"
      inkscape:window-x="809"
-     inkscape:window-height="805"
+     inkscape:window-height="787"
      inkscape:window-width="1209"
      units="mm"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="175.31508"
-     inkscape:cx="149.57921"
-     inkscape:zoom="2"
+     inkscape:cx="69.57921"
+     inkscape:zoom="0.5"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -63,23 +63,6 @@
        xlink:href="#pattern6133"
        id="pattern6142"
        patternTransform="matrix(0.07804139,0,0,0.07804139,2.8826279e-6,1.1811024e-5)" />
-    <pattern
-       inkscape:isstock="true"
-       inkscape:stockid="Stripes 1:1"
-       id="Strips1_1"
-       patternTransform="translate(0,0) scale(10,10)"
-       height="1"
-       width="2"
-       patternUnits="userSpaceOnUse"
-       inkscape:collect="always">
-      <rect
-         id="rect4889"
-         height="2"
-         width="1"
-         y="-0.5"
-         x="0"
-         style="fill:black;stroke:none" />
-    </pattern>
     <filter
        id="filter7103"
        style="color-interpolation-filters:sRGB"
@@ -385,7 +368,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -413,13 +396,6 @@
          x="17.894819"
          y="260.17972"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.15513611px;font-family:'High School USA Serif';-inkscape-font-specification:'High School USA Serif';fill:url(#pattern6163);fill-opacity:1;stroke:#66c010;stroke-width:1.30999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">12</tspan></text>
-    <rect
-       style="opacity:1;fill:#a5acaf;fill-opacity:1;stroke:none;stroke-width:1.19650018;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6078"
-       width="82.550003"
-       height="8.9958334"
-       x="0"
-       y="277.68539" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.03124857px;line-height:125%;font-family:'Telugu Sangam MN';-inkscape-font-specification:'Telugu Sangam MN';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#a5acaf;fill-opacity:1;stroke:none;stroke-width:0.48220405;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -433,12 +409,5 @@
          x="26.683899"
          y="228.38535"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.09374619px;font-family:'Jersey M54';-inkscape-font-specification:'Jersey M54';letter-spacing:-0.47527161px;fill:#a5acaf;fill-opacity:1;stroke:none;stroke-width:0.48220405;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">FAN</tspan></text>
-    <rect
-       style="opacity:1;fill:#66c010;fill-opacity:1;stroke:none;stroke-width:0.44547701;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6078-5"
-       width="82.550003"
-       height="1.247"
-       x="0"
-       y="286.68121" />
   </g>
 </svg>
